@@ -37,7 +37,7 @@ public class Inventory extends javax.swing.JFrame {
         jLabel2 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Project_Inventory");
+        setTitle("Project_Group13");
         setBackground(new java.awt.Color(102, 102, 255));
         setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
@@ -115,7 +115,7 @@ public class Inventory extends javax.swing.JFrame {
 
         jLabel2.setFont(new java.awt.Font("Impact", 1, 48)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 0));
-        jLabel2.setText("INVENTORY MANAGEMENT SYETEM");
+        jLabel2.setText("WAREHOUSE MANAGEMENT SYSTEM");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
